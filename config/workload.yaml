@@ -9,7 +9,7 @@ metadata:
 spec:
   source:
     git:
-      url: https://github.com/alexandreroman/emoodji
+      url: https://github.com/mathesonbr/emoodji
       ref:
         branch: testing
   params:
